@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Madhesh-Dev
+- 👋 Hi, I’m Madhesh Medasani
 - 👀 I’m interested in Software Development
 - 📫 How to reach me ? mail:medasanimadhesh@gmail.com
 
